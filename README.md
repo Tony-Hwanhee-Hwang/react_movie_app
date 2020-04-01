@@ -1,4 +1,4 @@
 #Movie App
 
-React JS Fundumental
+React JS Fundamental Course from Nomad Coder
 
